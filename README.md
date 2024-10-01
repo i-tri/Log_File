@@ -1,6 +1,7 @@
 # Remote CLI Command Executor with Excel Logging
 
 This Python project connects to remote devices via SSH using Netmiko, executes CLI commands, and logs the results into an Excel file. 
+If you run the script again and use the same Excel file as output, the script will only update the Excel file with changed information.
 It features a graphical user interface (GUI) to input the required connection details, the CLI command, and the location to save the Excel file.
 
 ## Features
