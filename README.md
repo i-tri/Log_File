@@ -47,7 +47,7 @@ cd repository-name
 3. Run the project using Python:
 
 ```bash
-python cli_to_excel_gui.py
+python Log_File_GUI.py
 ```
 **Usage**
 **GUI Interface**
@@ -75,7 +75,7 @@ After providing the inputs, click the **Execute** button to run the command. The
 1. Run the script:
 
 ```bash
-python cli_to_excel_gui.py
+python Log_File_GUI.py
 ```
 2. Fill out the GUI fields:
 
